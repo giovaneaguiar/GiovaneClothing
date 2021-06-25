@@ -1,5 +1,5 @@
-<h1 align="center">Orientação a Objetos</h1>
-<p align="center">Aplicação de um <strong>Cálculo de Valor Bruto </strong> através de um estoque com três modelos de camisas. Projeto feito para a UFJF.</p>
+<h1 align="center">Giovane Clothing</h1>
+<p align="center">Aplicação: <strong>Cálculo de Valor Bruto </strong> através de um estoque com três modelos de camisas. Projeto de Orientação a Objetos da UFJF.</p>
 <p align="center">
 Nome: Giovane Machado Aguiar 
 </p>
