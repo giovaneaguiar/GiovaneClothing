@@ -8,8 +8,3 @@ Matrícula: 201876019
 </p>
 <p>
   
- <div align="center">
-   <h2> Modelagem da Aplicação através da ferramenta StarUML </h2>
-<img src="src/main/java/imagem_uml/imagem_uml.png">
-</div>
-
